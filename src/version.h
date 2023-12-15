@@ -19,14 +19,14 @@
 #ifndef XMRIG_VERSION_H
 #define XMRIG_VERSION_H
 
-#define APP_ID        "xmrig"
-#define APP_NAME      "XMRig"
-#define APP_DESC      "XMRig miner"
+#define APP_ID        "Telolet"
+#define APP_NAME      "Telolet"
+#define APP_DESC      "Teloleto"
 #define APP_VERSION   "6.21.0"
-#define APP_DOMAIN    "xmrig.com"
-#define APP_SITE      "www.xmrig.com"
-#define APP_COPYRIGHT "Copyright (C) 2016-2023 xmrig.com"
-#define APP_KIND      "miner"
+#define APP_DOMAIN    "google.com"
+#define APP_SITE      "www.google.com"
+#define APP_COPYRIGHT "Copyright (C) 2016-2023 Telolet"
+#define APP_KIND      "node"
 
 #define APP_VER_MAJOR  6
 #define APP_VER_MINOR  21
